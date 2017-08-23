@@ -9,4 +9,3 @@ nagios_client_info: 'common'
 
 classes:
     - 'basic_packages'
-    - 'nagios::client'
